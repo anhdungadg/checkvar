@@ -1,6 +1,6 @@
 # "Check Var" Project
 
-## Softwae Architecture Layer
+## Software Architecture Layer
 
 ![](https://github.com/anhdungadg/checkvar/blob/main/checkvar-sw-arc.jpg)
 
