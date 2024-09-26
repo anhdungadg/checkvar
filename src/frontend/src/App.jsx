@@ -6,6 +6,9 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
+  const tit = import.meta.env.VITE_APP_TITLE;
+  console.log(tit);
+
   return (
     <>
       <div>
