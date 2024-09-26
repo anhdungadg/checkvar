@@ -7,4 +7,4 @@
 
 ## Infrastructure Architecture
 
-![](https://github.com/anhdungadg/checkvar/blob/main/checkvar.jpg)
+![](https://github.com/anhdungadg/checkvar/blob/main/checkvar-infra.jpg)
