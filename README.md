@@ -1,5 +1,9 @@
 # "Check Var" Project
 
+## Business flow
+
+![](https://github.com/anhdungadg/checkvar/blob/main/checkvar-biz-flow.jpg)
+
 ## Software Architecture Layer
 
 ![](https://github.com/anhdungadg/checkvar/blob/main/checkvar-sw-arc.jpg)
@@ -8,6 +12,10 @@
 ## Infrastructure Architecture
 
 ![](https://github.com/anhdungadg/checkvar/blob/main/checkvar-infra.jpg)
+
+## Infrastructure Architecture with High Availability
+
+![](https://github.com/anhdungadg/checkvar/blob/main/checkvar-infra-multiaz.jpg)
 
 ## Step by step hand-on
 
